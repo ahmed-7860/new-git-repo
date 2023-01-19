@@ -6,3 +6,4 @@ hello my friend how are you
 
 nameserver 75.75.75.75
 nameserver 75.75.76.76
+This my new line on git take a look thanks 
